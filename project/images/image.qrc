@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abs.svg</file>
+        <file>adaptivecruisecontrol.svg</file>
+        <file>airbag.svg</file>
+        <file>autohighbeam.svg</file>
+        <file>battery.svg</file>
+        <file>black.svg</file>
+        <file>brakefailurered.svg</file>
+        <file>brakefailureyellow.svg</file>
+        <file>doorsajar.svg</file>
+        <file>ene_allow_left.svg</file>
+        <file>ene_allow_right.svg</file>
+        <file>ene_battery_0.svg</file>
+        <file>ene_battery_1.svg</file>
+        <file>ene_battery_2.svg</file>
+        <file>ene_battery_3.svg</file>
+        <file>ene_battery_4.svg</file>
+        <file>ene_battery_5.svg</file>
+        <file>ene_engine.svg</file>
+        <file>ene_tire.svg</file>
+        <file>engine.svg</file>
+        <file>enginecoolanttemphigh.svg</file>
+        <file>enginecoolanttemplow.svg</file>
+        <file>engineoil.svg</file>
+        <file>fuel.svg</file>
+        <file>fuellid.svg</file>
+        <file>highbeam.svg</file>
+        <file>idlereduction.svg</file>
+        <file>image.qrc</file>
+        <file>lanedeparturewarningsystem.svg</file>
+        <file>obstaclewarningsystemsiderear.svg</file>
+        <file>ompu.svg</file>
+        <file>parkingbrake.svg</file>
+        <file>positionlights.svg</file>
+        <file>radioAM.svg</file>
+        <file>radioFM.svg</file>
+        <file>seatbelt.svg</file>
+        <file>steeringfailure.svg</file>
+        <file>turnsignalleft.svg</file>
+        <file>turnsignalright.svg</file>
+    </qresource>
+</RCC>

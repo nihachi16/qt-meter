@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>footer/Footer.qml</file>
+        <file>header/Header.qml</file>
+        <file>meter/Meter.qml</file>
+        <file>meter/ValueSource.qml</file>
+        <file>multimedia/MediaModel.qml</file>
+        <file>multimedia/MultiMedia.qml</file>
+        <file>multimedia/MediaDelegate.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/doorsajar.svg</file>
+        <file>images/enginecoolanttemplow.svg</file>
+        <file>images/engineoil.svg</file>
+        <file>images/fuellid.svg</file>
+        <file>images/lanedeparturewarningsystem.svg</file>
+        <file>images/obstaclewarningsystemsiderear.svg</file>
+        <file>images/positionlights.svg</file>
+        <file>images/seatbelt.svg</file>
+        <file>images/steeringfailure.svg</file>
+        <file>images/ene_battery_3.svg</file>
+        <file>images/ene_battery_4.svg</file>
+        <file>images/ene_battery_5.svg</file>
+        <file>images/turnsignalleft.svg</file>
+        <file>images/turnsignalright.svg</file>
+        <file>header/Header.qml</file>
+        <file>images/radioFM.svg</file>
+        <file>images/radioAM.svg</file>
+        <file>images/ompu.svg</file>
+        <file>images/abs.svg</file>
+        <file>images/adaptivecruisecontrol.svg</file>
+        <file>images/airbag.svg</file>
+        <file>images/autohighbeam.svg</file>
+        <file>images/battery.svg</file>
+        <file>images/brakefailurered.svg</file>
+        <file>images/brakefailureyellow.svg</file>
+        <file>images/ene_allow_left.svg</file>
+        <file>images/ene_allow_right.svg</file>
+        <file>images/ene_battery_0.svg</file>
+        <file>images/ene_battery_1.svg</file>
+        <file>images/ene_battery_2.svg</file>
+        <file>images/ene_engine.svg</file>
+        <file>images/ene_tire.svg</file>
+        <file>images/engine.svg</file>
+        <file>images/enginecoolanttemphigh.svg</file>
+        <file>images/fuel.svg</file>
+        <file>images/highbeam.svg</file>
+        <file>images/idlereduction.svg</file>
+        <file>images/image.qrc</file>
+        <file>images/parkingbrake.svg</file>
+        <file>images/black.svg</file>
+    </qresource>
+</RCC>
